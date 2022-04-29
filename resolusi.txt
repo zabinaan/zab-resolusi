@@ -7,3 +7,11 @@ Zabina's Resolutions
 - You're worth it and nothing, not every single thing gonna leave you alone in the dark
 - make sure to always drink water and get enough rest or sleep
 - every emotions are valid. 
+
+I'm Adding this to apply branvhing.
+What is branching for?
+- to create snaphot without distrub the master bcanch
+- to make experimentaly features
+
+
+
