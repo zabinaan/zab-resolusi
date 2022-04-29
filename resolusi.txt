@@ -13,5 +13,7 @@ What is branching for?
 - to create snaphot without distrub the master bcanch
 - to make experimentaly features
 
+i'm edit this file to check that we can make movement and see the history after this. nite: gonna delete this after the brannch bacome the main L)
+
 
 
